@@ -1,0 +1,2 @@
+# configuraciones
+Componente para termux
